@@ -1,0 +1,117 @@
+*{
+   padding: 0;
+   margin: 0;
+}
+a {
+   text-decoration: none;
+}
+li {
+   list-style: none;
+}
+/*
+.content {
+   width: 100%;
+   margin: 0 auto;
+}
+.content_container {
+   margin: 0 auto;
+   padding: 50px;
+   width: 70%;
+
+}
+
+
+.content_table {
+   width: 32%;
+   height: 100%;
+   margin: 0 auto;
+   display: grid;
+   grid-template-columns: 33% 33% 33%;
+}
+.content_table .cell {
+   height: 100px;
+   display: grid;
+   justify-content: center;
+   align-items: center;
+   font-size: 30px;
+   color: black;
+   cursor: pointer;
+   border: 3px solid black;
+}
+.cell.visible_left {
+   border-left: none;
+}
+.cell.visible_top {
+   border-top: none;
+} 
+.cell.visible_right {
+   border-right: none;
+} 
+.cell.visible_bottom {
+   border-bottom: none;
+} 
+.content_table .cell:hover {
+   background: #f4f4f4;
+   
+}
+.content_statistic {
+   border: 1px solid black;
+   width: 20%;
+   margin: 0 auto;
+   padding: 20px;
+}
+.content_control {
+   text-align: center;
+   width: 20%;
+   margin: 50px auto;
+}
+.krestiki_noliki{
+    width: 306px;
+    margin: 0 auto;
+}
+.krestiki_noliki .block{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    float: left;
+    text-align: center;
+    font-size: 100px;
+    line-height: 94px;
+}
+*/
+body{
+	font-family:verdana;
+	color:#444;
+}
+.result {
+   text-align: center;
+   margin-bottom: 50px;
+}
+.oganesyan{
+    font-size: 20px;
+    color: #fff;
+    background: #3C8FB7;
+    padding: 4px 8px;
+	cursor: pointer;
+   display: block;
+   width: 170px;
+   height: 50px;
+   margin: 400px auto;
+   line-height: 50px; 
+}
+.krestiki_noliki{
+    width: 306px;
+    margin: 100px auto;
+}
+.krestiki_noliki .block{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    float: left;
+    text-align: center;
+    font-size: 30px;
+   font-weight: bold;
+    line-height: 94px;
+}
